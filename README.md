@@ -11,3 +11,5 @@ The code is written in Tensorflow-2
 
 Dataset:
 The training and testing datasets considered can be downloaded from [OpenFWI](https://arxiv.org/abs/2111.02926).
+
+The trained weights and biases can be downloaded from this [DropBox](https://www.dropbox.com/scl/fo/toielc1m50ck07azuiamz/AEPkdont5pGml6WBKr_ZKsE?rlkey=paz3hp17eiuu0a1cs42hjg2os&st=osv34tkx&dl=0) 
