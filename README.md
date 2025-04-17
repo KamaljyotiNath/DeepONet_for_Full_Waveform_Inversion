@@ -8,3 +8,6 @@ Full Waveform Inversion (FWI) is an important geophysical technique considered i
 </p>
 
 The code is written in Tensorflow-2
+
+Dataset:
+The training and testing datasets considered can be downloaded from [OpenFWI](https://arxiv.org/abs/2111.02926).
