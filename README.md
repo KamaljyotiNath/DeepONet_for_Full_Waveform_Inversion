@@ -17,7 +17,7 @@ The code is written using Tensorflow 2.
 
 ## Cite the paper
 <pre>
-@article{nath2025leveraging,
+@article{Nath_2025_Leveraging_DeepONet_FWI,
   title={Leveraging Deep Operator Networks (DeepONet) for Acoustic Full Waveform Inversion (FWI)},
   author={Nath, Kamaljyoti and Shukla, Khemraj and Tsai, Victor C and Waheed, Umair bin and Huber, Christian and Alpak, Omer and Chen, Chuen-Song and Lu, Ligang and St-Cyr, Amik},
   journal={arXiv preprint arXiv:2504.10720},
