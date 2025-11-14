@@ -28,10 +28,10 @@ run file main.py
 - argparse
 - sys
 
-### Loading model and data
+### Load model and data
 
 Download the trained model and the normalization scale from the Dropbox mentioned above\
-Download the dataset from the OpenFWI., The link is given above
+Download the dataset from the OpenFWI. The link is given above
 
 - Load model parameters in the main.py file \
 W_b_dict = np.load('PATH TO Weight_bias.npy', allow_pickle='True')
@@ -44,7 +44,7 @@ data_station = np.load('PATH to seis2_1_'+str(k)+'.npy')  &emsp; &emsp; &emsp; &
 data_vel = np.load('PATH to vel2_1_'+str(k)+'.npy')      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; # Load the velocity field (true) corresponds to the seismic trace
 
 
-The dataset.py also does the data processing like normalization, minibatch, etc.
+The dataset.py also does the data processing, like normalization, minibatch, etc.
 
 The DeepONet.py contains the class DeepONet, which is the DeepONet architecture.
 
